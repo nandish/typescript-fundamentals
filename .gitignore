@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# =========================
+# Web essentials auto-generated files
+# =========================
+**/Scripts/*.js
+
+
 # User-specific files
 *.suo
 *.user
