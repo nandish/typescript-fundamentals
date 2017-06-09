@@ -6,7 +6,10 @@
 # =========================
 # Web essentials auto-generated files
 # =========================
-**/Scripts/*.js
+#**/Scripts/*.js
+*.js
+*.js.map
+
 
 
 # User-specific files
